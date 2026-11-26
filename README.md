@@ -40,7 +40,7 @@ Items/peices needed needed:
 5. go to backdrop, and at the top change ip address to that esp32 ip adress
 6. compile or run as is. your choice.
 7. it will play a ding when connected, but will be a bit hard to hear.
-connect through wifi to the esp32. ( "PokeCenter Connecter" ), password ("epokpass")
+connect through wifi to the esp32. ( "PokeCenter Connecter" ), password ("pokepass")
 8. add tags manually if editing, or scan the new tags and follow the prompts.
 9. Enjoy! (note: im new to this, so expect bugs... also some pokemon might be missing...)
 
@@ -55,3 +55,7 @@ up = show data screen (shows logs, data, cooldown (1 for active),
 the tag data (matches up with pokemon data), pokemon data (# S/R F/M) or poke#, shiny or regular?, female or male?
 
 down = hide data screen
+
+# ABOUT CREDITS
+i worked hard on this... please tag me in any posts if you do make it!
+@gamernate762 or @oopswronggame73 anywhere
