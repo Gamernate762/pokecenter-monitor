@@ -59,3 +59,5 @@ down = hide data screen
 # ABOUT CREDITS
 i worked hard on this... please tag me in any posts if you do make it!
 @gamernate762 or @oopswronggame73 anywhere
+
+credits to the pokeapi for sprites
