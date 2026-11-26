@@ -38,7 +38,7 @@ Items/peices needed needed:
 3. open turbowarp through online or desktop app
 4. open the turbowarp file in code and edit it. (reason why it isnt compiled as an app)
 5. go to backdrop, and at the top change ip address to that esp32 ip adress
-6. compile or run as is. your choice.
+6. compile (recommended using added json file) or run as is. your choice.
 7. it will play a ding when connected, but will be a bit hard to hear.
 connect through wifi to the esp32. ( "PokeCenter Connecter" ), password ("pokepass")
 8. add tags manually if editing, or scan the new tags and follow the prompts.
